@@ -29,3 +29,9 @@ The connector cannot edit a live theme and could not create a theme copy, so thi
 ## Already applied via API
 - Main menu: Home, Shop (+5 collections), About Us, FAQ, Contact (fixed broken /pages/contact link).
 - Footer menu: About Us, FAQ, Contact, Search.
+
+## Also applied via API (later pass)
+- Policy text published as regular pages (Shipping, Refund & Return, Privacy, Terms of Service) and linked in the footer,
+  because the connector cannot write real Shop Policies. Still paste docs/policies.md into Settings → Policies so
+  checkout shows them, then these pages can be removed.
+- All 10 products: benefit-bullet descriptions and SEO title/meta description. Still DRAFT, no images, no supplier yet.
