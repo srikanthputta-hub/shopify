@@ -24,3 +24,12 @@ We hold no stock. Supplier ships directly to the customer.
   could not open the Shopify app listing from this environment.
 - Alternatives named in third-party blogs (unverified, check each yourself): Snazzyway, GridRay, Dropdash, IndiaMART suppliers, Meesho.
 - Lesson for us: plan for RTO/COD returns in pricing; consider prepaid-first (small discount for UPI/prepaid) and pin-code COD limits.
+
+## Supplier decision (2026-10-09) — PILOT, not a commitment
+Pick: Dropdash (free Shopify app, India-based, COD + NDR/RTO handling, Pan-India shipping) as pilot fulfilment partner.
+Evidence is thin and mixed: app-store ratings reported ~3.1–3.6 on 5–13 reviews; complaints about delivery issues,
+product availability; some reviews look templated. No source confirmed electronics/home-kitchen coverage — VERIFY.
+Not chosen: GridRay (dealer model, catalog appears sports/brands, no Shopify app found); Snazzyway (fashion-focused);
+Dropship India (3.3★, RTO/return penalties); vFulfill (paid tiers).
+Gate before any product goes ACTIVE: (1) catalog has the SKU, (2) order 1 sample, (3) 3 test orders incl. 1 COD,
+(4) written RTO/return terms, (5) margin check. If Dropdash fails, fall back to IndiaMART/Meesho sourcing per SKU.
